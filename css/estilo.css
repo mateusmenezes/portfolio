@@ -43,7 +43,7 @@ header ul a:hover{
 */
 section.apresentacao{
     font-family: 'Roboto Condensed', sans-serif;
-    background: url(/imagens/transparencia.png) no-repeat center;
+    background: url(imagens/transparencia.png) no-repeat center;
     background-size: cover;
     background-attachment: fixed;
 }
